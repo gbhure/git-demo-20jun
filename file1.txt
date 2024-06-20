@@ -1,2 +1,3 @@
 hi.. good morning
 today is Thursday. We are learning git
+new line added here
